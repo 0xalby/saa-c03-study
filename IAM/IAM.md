@@ -12,4 +12,3 @@ IAM Is a Global Service
   
 Groups and Users can be applied [IAM Policies](./IAM%20Policy.md)
 
-
